@@ -1,0 +1,7 @@
+1093 [restartedMain] INFO  u.g.d.DemoSpringBootKotlinApplicationKt -- Starting DemoSpringBootKotlinApplicationKt using Java 17.0.7 with PID 24537 (/Users/husnitdin/kotlin/demo_spring_boot_kotlin/build/classes/kotlin/main started by husnitdin in /Users/husnitdin/kotlin/demo_spring_boot_kotlin)
+1101 [restartedMain] INFO  u.g.d.DemoSpringBootKotlinApplicationKt -- No active profile set, falling back to 1 default profile: "default"
+3221 [restartedMain] INFO  u.g.d.DemoSpringBootKotlinApplicationKt -- Started DemoSpringBootKotlinApplicationKt in 3.003 seconds (process running for 4.026)
+8200 [http-nio-7000-exec-2] INFO  u.g.d.controller.MessageController -- info line
+8201 [http-nio-7000-exec-2] WARN  u.g.d.controller.MessageController -- warn linr
+8201 [http-nio-7000-exec-2] ERROR u.g.d.controller.MessageController -- error line
+8201 [http-nio-7000-exec-2] INFO  u.g.d.controller.MessageController -- Info 1 abc
